@@ -1,0 +1,9 @@
+torch
+torchvision
+modelscope==1.9.5
+opencv-python
+numpy
+requests
+Pillow
+ipywidgets
+matplotlib
